@@ -1,1 +1,25 @@
 # Add conda environment setup here
+name: fraud-detection-env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - imbalanced-learn
+  - xgboost
+  - matplotlib
+  - seaborn
+  - shap
+  - joblib
+  - jupyterlab
+  - ipykernel
+  - tqdm
+
+# Optional: pip packages if needed
+  - pip
+  - pip:
+      - notebook
