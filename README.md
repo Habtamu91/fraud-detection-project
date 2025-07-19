@@ -50,7 +50,6 @@ Special thanks to:
 
 - 10 Academy team
 
-- XGBoost, SHAP, and scikit-learn communities
 
 
 
