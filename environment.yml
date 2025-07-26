@@ -19,7 +19,7 @@ dependencies:
   - ipykernel
   - tqdm
 
-# Optional: pip packages if needed
+# Optional: pip packages if needed use it.
   - pip
   - pip:
       - notebook
