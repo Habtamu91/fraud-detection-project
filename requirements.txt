@@ -5,7 +5,8 @@ scikit-learn==1.4.2
 
 # Imbalanced data handling
 imbalanced-learn==0.12.2
-
+imblearn
+streamlit
 # Machine Learning Models
 xgboost==2.0.3
 lightgbm==4.3.0
@@ -23,3 +24,4 @@ joblib==1.4.2
 
 # Optional (for IP-to-country conversion if needed)
 ipaddress==1.0.23
+

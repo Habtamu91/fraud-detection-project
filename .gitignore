@@ -4,6 +4,8 @@ __pycache__/
 *.csv
 *.png
 .env
-outputs/
+# Ignore large files
 data/
-visualization/
+data/raw/
+data/processed/*.pkl
+data/processed/*.csv
