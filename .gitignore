@@ -4,7 +4,7 @@ __pycache__/
 *.csv
 *.png
 .env
-# Ignore large files
+# Ignore large files suitable for push.
 data/
 data/raw/
 data/processed/*.pkl

@@ -1,6 +1,6 @@
 ---
 
-# 🔐 Fraud Detection for E-Commerce and Bank Transactions
+# 🔐 Fraud Detection for E-Commerce and Bank Transactions.
 
 This repository contains an end-to-end fraud detection project developed as part of the **10 Academy Week 8 & 9 Artificial Intelligence Mastery Challenge**.
 The goal is to build accurate and explainable machine learning models that detect fraudulent activities in both **e-commerce** and **bank credit card** transactions.

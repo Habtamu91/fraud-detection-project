@@ -1,4 +1,4 @@
-# Add conda environment setup here
+# Adding conda environment setup 
 name: fraud-detection-env
 channels:
   - conda-forge
