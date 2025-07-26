@@ -7,7 +7,7 @@ The goal is to build accurate and explainable machine learning models that detec
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives.
 
 * ✅ Load and explore real-world fraud datasets: **Fraud\_Data.csv** and **creditcard.csv**
 * ✅ Handle missing values, correct data types, and merge datasets for geolocation analysis
